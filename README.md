@@ -145,8 +145,8 @@ To create impactful visualizations, it’s important to follow best practices. T
   ![02_Reveneu_By_State_Rs](https://github.com/user-attachments/assets/35e9ceba-7788-4e2a-b0d5-3eda75ba613b)
 
   **3. Revenue By Age:**
- 
-  ![03_Revenue_By_Age_Rs](https://github.com/user-attachments/assets/f95907c7-7d09-4cab-a950-d5b53e7bfb91)
+
+  ![03_Revenue_By_Age_Rs](https://github.com/user-attachments/assets/79480454-cded-4e38-9008-cf797c763a05)
 
   **4. Quantity Discount_Coorelation:**
 
@@ -158,7 +158,8 @@ To create impactful visualizations, it’s important to follow best practices. T
 
    **6. Revenue By Category:**
 
-   ![06_Revenue_By_Category_RS](https://github.com/user-attachments/assets/961fb4b9-10d2-4199-9c28-783411ba760e)
+   ![06_Revenue_By_Category_RS](https://github.com/user-attachments/assets/9c105399-317d-4f34-a39c-f25093be8d49)
+
 
    **7. Customer Analysis Dashboard:**
 

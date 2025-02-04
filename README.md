@@ -133,7 +133,7 @@ To create impactful visualizations, it’s important to follow best practices. T
 
 ## Customer Analysis Dashboard:
 - This dasboard helps businesses understand their customer base and track key performance indicators (KPIs) related to customer behavior, demographics, and purchasing patterns.
-- It typically includes visualizations that highlight insights such as customer segmentation (by age, gender, location, etc.), sales trends, customer lifetime value (CLV), churn rates, and retention.
+- It typically includes visualizations that highlight insights such as customer segmentation (by age, gender, location,category etc.).
 - Below are the various reports/sheets and finally are merged in to a single customer dashboard.
 
   **1. Revenue By Month:**

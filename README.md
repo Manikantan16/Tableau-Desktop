@@ -131,3 +131,38 @@ To create impactful visualizations, it’s important to follow best practices. T
 - **Consistency**: Keep your visual style consistent throughout your dashboards to ensure they are easy to navigate.
 - **Interactive Dashboards**: Build dashboards with interactive elements such as filters and highlight actions to allow users to engage with the data.
 
+## Customer Analysis Dashboard:
+- This dasboard helps businesses understand their customer base and track key performance indicators (KPIs) related to customer behavior, demographics, and purchasing patterns.
+- It typically includes visualizations that highlight insights such as customer segmentation (by age, gender, location, etc.), sales trends, customer lifetime value (CLV), churn rates, and retention.
+- Below are the various reports/sheets and finally are merged in to a single customer dashboard.
+
+  **1. Revenue By Month:**
+  
+   ![01_Revenue_By_Month_RS](https://github.com/user-attachments/assets/975635c7-de69-4536-a143-d9e9386fc8ba)
+
+  **2. Revenue By State:**
+
+  ![02_Reveneu_By_State_Rs](https://github.com/user-attachments/assets/35e9ceba-7788-4e2a-b0d5-3eda75ba613b)
+
+  **3. Revenue By Age:**
+ 
+  ![03_Revenue_By_Age_Rs](https://github.com/user-attachments/assets/f95907c7-7d09-4cab-a950-d5b53e7bfb91)
+
+  **4. Quantity Discount_Coorelation:**
+
+  ![04_Quantity_Discount_Coorelation_RS](https://github.com/user-attachments/assets/774c837f-9631-47ed-b94d-b62d83fc4a3d)
+
+  **5. Revenue By Percentage:**
+
+   ![05_Revenue_By_Percentage_RS](https://github.com/user-attachments/assets/2ade551f-f0fc-4f14-bc38-1f4178e0db01)
+
+   **6. Revenue By Category:**
+
+   ![06_Revenue_By_Category_RS](https://github.com/user-attachments/assets/961fb4b9-10d2-4199-9c28-783411ba760e)
+
+   **7. Customer Analysis Dashboard:**
+
+   ![07_CustomerAnalysisDashboard_RS](https://github.com/user-attachments/assets/03c997be-32f0-4577-830d-1bfddb164f71)
+
+
+  
